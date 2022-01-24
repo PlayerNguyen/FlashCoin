@@ -1,0 +1,5 @@
+name: FlashCoin
+version: '${version}'
+main: com.github.playernguyen.flashcoin.FlashCoin
+authors: [ Player_Nguyen ]
+description: Fast, elegant, and powerful economy engine for Bukkit Server
